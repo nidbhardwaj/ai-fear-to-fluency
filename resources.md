@@ -10,6 +10,7 @@ This file collects high-quality resources I’ve found helpful while learning ab
 
 * [🔗 Generative AI with Large Language Models (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms)
   Comprehensive course by DeepLearning.AI and AWS that covers LLM fundamentals, prompt tuning, fine-tuning, and deploying GenAI apps.
+  - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 
 * [🔗 Building Systems with ChatGPT](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
   Teaches how to compose modular AI systems using LLMs + tools like LangChain.
